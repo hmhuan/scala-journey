@@ -1,3 +1,3 @@
 # scala-journey
 
-https://docs.scala-lang.org/tour/basics.html
+https://docs.scala-lang.org/tour
